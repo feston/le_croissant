@@ -12,6 +12,12 @@ satisfaisant, quoique légèrement briochés. Pour toute remarque, vous pouvez
 [ouvrir un problème](https://github.com/feston/le_croissant/issues) ou formuler
 une [requête d'insertion](https://github.com/feston/le_croissant/pulls).
 
+##Difficulté et temps nécessaire à la réalisation
+
+bsb et cgg y étant arrivé à peu près sans encombres ça devrait être faisable.
+Par contre c'est LONG. Prévoir de la lecture, quelques bières et de quoi se
+sustenter pendant la fabrication.
+
 ##Le matériel
 
 Réaliser des croissants ne demande pas de matériel très sophistiqué ou onéreux.
