@@ -1,5 +1,9 @@
 #Faire des croissants
 
+> Donne un croissant à un homme, et tu le nourriras pour 20 minutes. Apprends à
+un homme comment faire des croissants et il pourra écrire la recette sur son
+blog.
+
 ##Note préliminaire
 
 Cette recette est un assemblage de plusieurs recettes glanées sur Internet. Elle
