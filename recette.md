@@ -3,12 +3,14 @@
 > Donne un croissant à un homme, et tu le nourriras pour 20 minutes. Apprends à
 un homme comment faire des croissants et il pourra écrire la recette sur son
 blog.
+>
+> &mdash;&mdash; <cite>Jésus</cite>
 
 ##Note préliminaire
 
 Cette recette est un assemblage de plusieurs recettes glanées sur Internet. Elle
-a été testée une fois, le 31 Août 2015. Les croissants produits ont été jugés
-satisfaisant, quoique légèrement briochés. Pour toute remarque, vous pouvez
+a été testée une fois, le 31 Août 2015. Les ainsi croissants produits ont été jugés
+satisfaisants, quoique légèrement briochés. Pour toute remarque, vous pouvez
 [ouvrir un problème](https://github.com/feston/le_croissant/issues) ou formuler
 une [requête d'insertion](https://github.com/feston/le_croissant/pulls).
 
@@ -16,7 +18,7 @@ une [requête d'insertion](https://github.com/feston/le_croissant/pulls).
 
 bsb et cgg y étant arrivé à peu près sans encombres ça devrait être faisable.
 Par contre c'est LONG. Prévoir de la lecture, quelques bières et de quoi se
-sustenter pendant la fabrication.
+sustenter pendant la fabrication (note: la présence considérable de levure entraînera de l'aérophagie et des prouts chez quiconque décidant de se sustenter de pâte pas cuite).
 
 ##Le matériel
 
@@ -52,7 +54,7 @@ Faire des croissants s'assimile essentiellement à faire de la pâte feuilletée
 puis la découper en triangles que l'on roule ensuite en forme de croissants,
 dore et fait cuire. La réalisation de la pâte est de loin l'étape la plus longue
 et la plus compliquée, mais rien d'impossible avec un peu de méthode et
-patience.
+de patience.
 
 ###La pâte
 
@@ -76,7 +78,7 @@ et de beurre.
 
 1. En premier lieu, aplatir la pâte à la main sur le plan de travail, de manière
 à former un carré d'environ 0,5 à 1 cm d'épaisseur.
-2. Là dessus, répartir le beurre de manière à peu près uniforme en l'étalant à
+2. Là-dessus, répartir le beurre de manière à peu près uniforme en l'étalant à
 la main, tout en laissant au moins 2 cm de marge sur les bords du carré.
 3. Refermer le carré en rabattant chaque coin vers le centre et en les soudant
 ensemble, si nécessaire en les mouillant légèrement. Attention à ne pas laisser
@@ -111,3 +113,7 @@ au besoin de papier sulfurisé.
 3. Enfourner pour entre 20 et 30 minutes.
 4. Au bout de 10 ou 15 minutes, il est possible de recouvrir les croissants
 d'une feuille de papier d'aluminium afin d'éviter qu'ils ne brûlent en surface.
+
+# La consommation
+
+Consommation de type buccale principalement.
