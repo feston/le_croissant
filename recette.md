@@ -83,13 +83,13 @@ et de beurre.
 2. Là-dessus, répartir le beurre de manière à peu près uniforme en l'étalant à
 la main, tout en laissant au moins 2 cm de marge sur les bords du carré.
 
-![Le beurre avant étalement]({{ site.baseurl }}/recipe_assets/Photo-2015-08-31-14-31-34_4419.JPG)
+![Le beurre avant étalement](https://raw.githubusercontent.com/feston/le_croissant/master/recipe_assets/Photo-2015-08-31-14-31-34_4419.JPG)
 
 3. Refermer le carré en rabattant chaque coin vers le centre et en les soudant
 ensemble, si nécessaire en les mouillant légèrement. Attention à ne pas laisser
 de beurre s'échapper car la situation deviendrait rapidement incontrôlable !
 
-![On ferme !]({{ site.baseurl }}/recipe_assets/Photo-2015-08-31-14-35-22_4422.JPG)
+![On ferme !](https://raw.githubusercontent.com/feston/le_croissant/master/recipe_assets/Photo-2015-08-31-14-35-22_4422.JPG)
 
 Afin de faciliter la suite des opérations en raffermissant quelque peu le
 beurre, il peut être utile à ce niveau de mettre la pâte au réfrigérateur pour
@@ -99,7 +99,7 @@ vingt à trente minutes. Passé cela :
 fois plus que large, puis replier ce rectangle en trois dans le sens de la
 longueur (deux pliures, une entre chaque tiers donc).
 
-![Pliage en cours.]({{ site.baseurl }}/recipe_assets/Photo-2015-08-31-15-12-36_4423.JPG)
+![Pliage en cours.](https://raw.githubusercontent.com/feston/le_croissant/master/recipe_assets/Photo-2015-08-31-15-12-36_4423.JPG)
 
 2. Tourner le rectangle de 90°, l'étaler de nouveau en rectangle de dimensions
 similaires et le plier de la même façon.
@@ -112,16 +112,16 @@ Nouvel interlude réfrigiratoire d'une trentaine de minutes.
 2. Découper le rectangle en deux dans le sens de la longueur, et chaque
 rectangle en triangles isocèles.
 
-![]({{ site.baseurl }}/recipe_assets/Photo-2015-08-31-16-21-21_4433.JPG)
+![](https://raw.githubusercontent.com/feston/le_croissant/master/recipe_assets/Photo-2015-08-31-16-21-21_4433.JPG)
 
-![]({{ site.baseurl }}/recipe_assets/Photo-2015-08-31-16-24-16_4435.JPG)
+![](https://raw.githubusercontent.com/feston/le_croissant/master/recipe_assets/Photo-2015-08-31-16-24-16_4435.JPG)
 
 3. Rouler chaque triangle en partant de la base vers la pointe.
 
 4. Disposer les croissants ainsi façonnés sur une plaque de cuisson recouverte
 au besoin de papier sulfurisé.
 
-![]({{ site.baseurl }}/recipe_assets/Photo-2015-08-31-16-27-14_4437.JPG)
+![](https://raw.githubusercontent.com/feston/le_croissant/master/recipe_assets/Photo-2015-08-31-16-27-14_4437.JPG)
 
 5. Laisser reposer les croissants une heure, recouverts d'un torchon.
 
@@ -130,16 +130,16 @@ au besoin de papier sulfurisé.
 1. Faire préchauffer le four à 210 °C.
 2. Badigeonner les croissants de jaune d'œuf
 
-![Badi badi badigeonnez]({{ site.baseurl }}/recipe_assets/Photo-2015-08-31-17-23-31_4442.JPG)
+![Badi badi badigeonnez](https://raw.githubusercontent.com/feston/le_croissant/master/recipe_assets/Photo-2015-08-31-17-23-31_4442.JPG)
 
 3. Enfourner pour entre 20 et 30 minutes.
 4. Au bout de 10 ou 15 minutes, il est possible de recouvrir les croissants
 d'une feuille de papier d'aluminium afin d'éviter qu'ils ne brûlent en surface.
 
-![Oui, j'avais une lampe frontale.]({{ site.baseurl }}/recipe_assets/Photo-2015-08-31-17-38-44_4445.JPG)
+![Oui, j'avais une lampe frontale.](https://raw.githubusercontent.com/feston/le_croissant/master/recipe_assets/Photo-2015-08-31-17-23-31_4445.JPG)
 
 # La consommation
 
 Consommation de type buccale principalement.
 
-![ME GUSTA]({{ site.baseurl }}/recipe_assets/Photo-2015-08-31-17-48-32_4449.JPG)
+![ME GUSTA](https://raw.githubusercontent.com/feston/le_croissant/master/recipe_assets/Photo-2015-08-31-17-23-31_4449.JPG)
