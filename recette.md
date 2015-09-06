@@ -9,7 +9,7 @@ blog.
 ##Note préliminaire
 
 Cette recette est un assemblage de plusieurs recettes glanées sur Internet. Elle
-a été testée une fois, le 31 Août 2015. Les ainsi croissants produits ont été jugés
+a été testée une fois, le 31 Août 2015. Les croissants ainsi produits ont été jugés
 satisfaisants, quoique légèrement briochés. Pour toute remarque, vous pouvez
 [ouvrir un problème](https://github.com/feston/le_croissant/issues) ou formuler
 une [requête d'insertion](https://github.com/feston/le_croissant/pulls).
