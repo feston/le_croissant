@@ -18,7 +18,9 @@ une [requête d'insertion](https://github.com/feston/le_croissant/pulls).
 
 bsb et cgg y étant arrivé à peu près sans encombres ça devrait être faisable.
 Par contre c'est LONG. Prévoir de la lecture, quelques bières et de quoi se
-sustenter pendant la fabrication (note: la présence considérable de levure entraînera de l'aérophagie et des prouts chez quiconque décidant de se sustenter de pâte pas cuite).
+sustenter pendant la fabrication (note: la présence considérable de levure
+entraînera de l'aérophagie et des prouts chez quiconque décidant de se sustenter
+de pâte pas cuite).
 
 ##Le matériel
 
