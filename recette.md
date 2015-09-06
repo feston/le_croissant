@@ -137,10 +137,10 @@ au besoin de papier sulfurisé.
 - Au bout de 10 ou 15 minutes, il est possible de recouvrir les croissants
 d'une feuille de papier d'aluminium afin d'éviter qu'ils ne brûlent en surface.
 
-![Oui, j'avais une lampe frontale.](https://raw.githubusercontent.com/feston/le_croissant/master/recipe_assets/Photo-2015-08-31-17-23-31_4445.JPG)
+![Oui, j'avais une lampe frontale.](https://raw.githubusercontent.com/feston/le_croissant/la_recette/recipe_assets/Photo-2015-08-31-17-38-44_4445.JPG)
 
 # La consommation
 
 Consommation de type buccale principalement.
 
-![ME GUSTA](https://raw.githubusercontent.com/feston/le_croissant/master/recipe_assets/Photo-2015-08-31-17-23-31_4449.JPG)
+![ME GUSTA](https://raw.githubusercontent.com/feston/le_croissant/la_recette/recipe_assets/Photo-2015-08-31-17-48-23_4447.JPG)
