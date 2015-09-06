@@ -50,7 +50,7 @@ Pour _une certaine quantité_ de croissants, on aura besoin des choses suivantes
 - 10 g de sel
 - 2 jaune d'œuf pour le dorage
 
-##Le _modus operandi_
+##Le *modus operandi*
 
 Faire des croissants s'assimile essentiellement à faire de la pâte feuilletée,
 puis la découper en triangles que l'on roule ensuite en forme de croissants,
