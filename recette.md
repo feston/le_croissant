@@ -104,7 +104,8 @@ longueur (deux pliures, une entre chaque tiers donc).
 - Tourner le rectangle de 90°, l'étaler de nouveau en rectangle de dimensions
 similaires et le plier de la même façon.
 
-Nouvel interlude réfrigiratoire d'une trentaine de minutes.
+Nouvel interlude [réfrigiratoire](https://youtu.be/2ljFfL-mL70?t=67) d'une
+trentaine de minutes.
 
 ###Le façonnage des croissants
 
